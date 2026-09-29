@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-scrapeunblocker-trustpilot",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"description": "n8n community node for the Trustpilot Reviews Scraper Apify Actor by ScrapeUnblocker: Trustpilot reviews with rating, title, text, verified badge, author and company reply as JSON",
 	"license": "MIT",
 	"homepage": "https://github.com/ScrapeUnblocker/n8n-nodes-scrapeunblocker-trustpilot#readme",
