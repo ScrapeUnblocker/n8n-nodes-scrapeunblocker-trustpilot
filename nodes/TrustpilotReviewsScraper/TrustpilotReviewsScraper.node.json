@@ -1,0 +1,33 @@
+{
+	"node": "n8n-nodes-scrapeunblocker-trustpilot.trustpilotReviewsScraper",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": [
+		"Marketing",
+		"Data & Storage"
+	],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://github.com/ScrapeUnblocker/n8n-nodes-scrapeunblocker-trustpilot#credentials"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/ScrapeUnblocker/n8n-nodes-scrapeunblocker-trustpilot#readme"
+			}
+		]
+	},
+	"alias": [
+		"trustpilot",
+		"reviews",
+		"ratings",
+		"trustscore",
+		"reputation",
+		"customer feedback",
+		"sentiment",
+		"scraper",
+		"apify",
+		"scrapeunblocker"
+	]
+}
